@@ -41,7 +41,7 @@ export const products = [
     id: 6,
     name: 'Casa com dois dormitórios, com sacada, garagem para dois carros',
     price: 'Diaria de R$ 3500,00 contato (51)965852321',  
-    description: 'Av. Assis Brasil, 2525, disponivel janeiro e fevereiro de 2022'
+    description: 'Av. Assis Brasil, 2525, Porto Alegre, disponivel janeiro e fevereiro de 2022'
   },
   
 ];
